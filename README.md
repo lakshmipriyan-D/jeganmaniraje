@@ -8,7 +8,7 @@
 
 🎓 Final-year **Artificial Intelligence & Data Science** student at **V.S.B Engineering College**
 
-💻 Skilled in **Java, Python, SQL, and HTML**
+💻 Skilled in **Java, Python, SQL, C++ and HTML**
 
 🌱 Passionate about **Software Development**
 
